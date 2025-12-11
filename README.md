@@ -1,71 +1,77 @@
-👋 Hi, I'm Dammy | Frontend Developer from Nigeria
-🚀 About Me
-Passionate frontend developer with 2+ years of experience crafting responsive, user-friendly web applications. I specialize in modern JavaScript frameworks and love transforming ideas into interactive digital experiences.
+👋 Hey there! I'm Dammy
+Frontend Developer | UI Craftsman | Digital Experience Creator
+📍 Based in Nigeria
+🎯 Passionate about building beautiful, performant web applications
 
-📊 GitHub Stats
+📊 My GitHub Activity
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Damilee2010&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Dammy's GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damilee2010&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damilee2010&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+🛠️ Tech Stack & Tools
+🚀 Core Technologies
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /> <br>Next.js </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> </tr> </table>
+🎨 Styling & UI Frameworks
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /> <br>Bootstrap </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /> <br>HTML5 </td> </tr> </table>
+🔧 Development Tools
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /> <br>Git </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /> <br>VS Code </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" /> <br>npm </td> </tr> </table>
+🏆 Professional Highlights
+💼 Experience & Expertise
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=Damilee2010&show_icons=true&theme=radical&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=Damilee2010&layout=compact&theme=radical&hide_border=true
+2+ Years	Hands-on frontend development experience
+15+ Projects	Built and deployed modern web applications
+4+ Frameworks	Mastered multiple modern JavaScript frameworks
+100% Responsive	Mobile-first approach for all projects
+</div>
+🌟 Key Skills
+<div> <img src="https://raw.githubusercontent.com/Damilee2010/Damilee2010/main/assets/react-skill.svg" alt="React Development" width="100%" /> </div>
+Frontend Architecture: Component-based design, state management, and modern patterns
+
+UI/UX Implementation: Translating designs into pixel-perfect, interactive interfaces
+
+Performance Optimization: Fast-loading, efficient applications with best practices
+
+Cross-Browser Compatibility: Ensuring seamless experiences across all platforms
+
+🚀 Featured Projects
+<div align="center">
+Project	Tech Stack	Description
+E-commerce Platform	React, TypeScript, Tailwind	Full-featured online shopping experience
+Portfolio Website	Next.js, CSS Modules	Professional portfolio with animations
+Dashboard App	React, Bootstrap, Charts	Data visualization and management dashboard
+Blog Platform	Next.js, Markdown, SSG	Static-generated blog with SEO optimization
+</div>
+📈 Development Approach
+graph TD
+    A[Planning & Design] --> B[Development]
+    B --> C[Testing & QA]
+    C --> D[Optimization]
+    D --> E[Deployment]
+    E --> F[Maintenance]
+    
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FFEAA7
+    style F fill:#DDA0DD
+🎯 What I Bring to the Table
+<div align="center">
+Quality	Description
+🧠 Problem Solver	Analytical approach to complex challenges
+🎨 Design Eye	Attention to detail and user experience
+⚡ Fast Learner	Quick adaptation to new technologies
+🤝 Team Player	Collaborative and communicative
+📱 Responsive Focus	Mobile-first, cross-device compatibility
+</div>
+📫 Let's Connect & Collaborate!
+<div align="center">
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+</div><div align="center">
+Open to exciting opportunities and collaborations! 🌟
+"Building the web, one component at a time" ✨
 
 </div>
-🛠️ Tech Stack
-Programming Languages
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<sub>⚡ Currently learning advanced React patterns and exploring Web3 development</sub>
 
-Frameworks & Libraries
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-
-Tools & Platforms
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-
-💼 Professional Highlights
-Frontend Development
-2+ years of hands-on experience with modern JavaScript frameworks
-
-Strong expertise in building responsive web applications using React and Next.js
-
-Proficient in creating interactive UIs with TypeScript for type-safe development
-
-Skilled in component-based architecture with reusable and maintainable code
-
-UI/UX & Styling
-Expertise in responsive design ensuring optimal experience across all devices
-
-Proficient with Tailwind CSS and Bootstrap for rapid UI development
-
-Strong foundation in web fundamentals (HTML5, CSS3, JavaScript ES6+)
-
-Development Approach
-Passionate about clean code practices and modern development best practices
-
-Continuous learner staying updated with latest frontend technologies
-
-Strong problem-solving skills and effective team collaboration
-
-Mobile-first approach for optimal mobile performance
-
-🏆 Projects & Achievements
-Built multiple React applications with modern state management and API integration
-
-Developed responsive websites using Tailwind CSS and Bootstrap for various screen sizes
-
-Created type-safe applications with TypeScript enhancing code reliability
-
-Contributed to open-source projects and maintained personal projects on GitHub
-
-Experience with mobile-first approach in web development
-
-📫 Let's Connect
-Open to new opportunities, collaborations, and interesting projects! Feel free to reach out if you want to build something amazing together.
-
-<div align="center">
-Ready to create exceptional digital experiences 🚀
-</div>
